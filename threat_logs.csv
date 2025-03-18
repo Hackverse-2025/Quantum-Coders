@@ -1,0 +1,4 @@
+timestamp,source_ip,threat_type,severity
+2025-03-18 17:25:47.047488,192.168.1.146,Phishing Attempt,low
+2025-03-18 17:25:47.048495,192.168.151.159,Zero-Day Exploit,critical
+2025-03-18 17:25:47.050495,192.168.53.69,Ransomware Attack,critical
